@@ -33,3 +33,14 @@ security while tranferring, so that no third party gets to know about this.
 ### How
 * When user wants to encrypt or decrypt files.
 
+## Threats
+Due to vulnerability data might get changed sometimes.
+
+### High Level Requirements
+
+| ID | Description | Status |
+|---|---|---|
+| HR01 | Operating System(Windows/Linux) | Implemented |
+
+
+
