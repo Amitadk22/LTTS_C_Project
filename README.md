@@ -1,1 +1,1 @@
-# LTTS_C_Project
+Encrypting and Decrypting a File
